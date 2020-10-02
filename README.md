@@ -4,7 +4,7 @@
 ![LCO Mastcot](https://learncodeonline.in/mascot.png "LCO")
 
 ```python
-    print("study anywhere any time")
+ print("study anywhere any time")
 
 ```
 ```javascript
